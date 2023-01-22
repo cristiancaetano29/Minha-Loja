@@ -3,12 +3,12 @@
 ## Sobre:
 ### Olá a Todos, venho trabalhando a um tempo em um novo projeto que é uma loja online que ira talvez vender algo, decidi faze-lá na intenção de poder estudar mais afundo em algumas Técnologias e na parte de hospedagem de sites/API e configurações de DNS.
 
-## API (BACKEND) :
+## API (BACK-END) :
 ### API está sendo desenvolvida em JavaScript onde a mesma já está online e pode ser testada publicamente por qualquer pessoa.
 ### STATUS - 🟢
 ### 📌 [API-DOCS-LINK](https://api-loja-test.onrender.com/api-docs/)
 
-## WEBSITE (FRONTEND) :
+## WEBSITE (FRONT-END) :
 ### O Site está sendo desenvolvido junto com a API, mas já se encontra Hospedado para qualquer um ir visitar.
 ### STATUS - 🟢
 ### 📌 [SITE-LINK](https://loja-online-full.netlify.app/)
