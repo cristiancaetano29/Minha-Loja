@@ -6,12 +6,12 @@
 ## API (BACKEND) :
 ### API está sendo desenvolvida em JavaScript onde a mesma já está online e pode ser testada publicamente por qualquer pessoa.
 ### STATUS - 🟢
-### 📌 [API LINK](https://api-loja-test.onrender.com/api-docs/)
+### 📌 [API-DOCS-LINK](https://api-loja-test.onrender.com/api-docs/)
 
 ## WEBSITE (FRONTEND) :
 ### O Site está sendo desenvolvido junto com a API, mas já se encontra Hospedado para qualquer um ir visitar.
 ### STATUS - 🟢
-### 📌 [SITE LINK](https://loja-online-full.netlify.app/)
+### 📌 [SITE-LINK](https://loja-online-full.netlify.app/)
 
 ## Notas:
 ### Ainda não tem data prevista para finalizar todo o projeto, pois sou o unico desenvolvedor nele e por conta que não é uma Aplicação pequena que pode ser finalizada em uma semana, já estou a 2 messes trabalhando nesse software para que possa ser entregue com qualidade.
