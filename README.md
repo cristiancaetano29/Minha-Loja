@@ -5,7 +5,7 @@
 
 ## API (BACK-END) :
 ### API está sendo desenvolvida em JavaScript onde a mesma já está online e pode ser testada publicamente por qualquer pessoa.
-### STATUS - 🟢
+### STATUS - ⚫
 ### 📌 [API-DOCS-LINK](https://api-loja-test.onrender.com/api-docs/)
 
 ## WEBSITE (FRONT-END) :
