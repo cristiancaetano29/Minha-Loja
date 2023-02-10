@@ -15,7 +15,7 @@
 ## Notas:
 ### Ainda não tem data prevista para finalizar todo o projeto, pois sou o unico desenvolvedor nele e por conta que não é uma Aplicação pequena que pode ser finalizada em uma semana, já estou a 2 messes trabalhando nesse software para que possa ser entregue com qualidade.
 
-### Ainda não irei deixar os códigos publicos para visualizar, pois tem agumas vunerabilidades a se corrigir, embreve qualquer um poderá ver e usar a APPI e o Site.
+### Ainda não irei deixar os códigos publicos para visualizar, pois tem agumas vunerabilidades a se corrigir, embreve qualquer um poderá ver e usar a API e o Site.
 
 ## Problemas/Dúvidas
 ### Caso tenha alguma dúvida ou tenha encontrado algum erro na API ou no site, entre em contato comigo por email ou crie uma Issues para reportar.
