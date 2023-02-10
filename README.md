@@ -8,7 +8,7 @@
 ### STATUS - 🟢- FINALIZADA
 
 ## WEBSITE (FRONT-END) :
-### O Site está sendo desenvolvido, mas já se encontra Hospedado para qualquer um ir visitar e aguardar o lançamento.
+### O Site está sendo desenvolvido, mas já se encontra Hospedado para qualquer um ir visitar e aguardar o lançamento oficial.
 ### STATUS - EM PRODUÇÃO
 ### 📌 [SITE-LINK](https://lojaonlinefull.live/)
 
